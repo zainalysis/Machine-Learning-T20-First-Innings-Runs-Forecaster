@@ -5,7 +5,7 @@ import gzip
 
 # Function to load the model
 def load_model():
-    with open('/workspaces/T20-First-Innings-Runs-Forecaster/pipe (4).pkl', 'rb') as f:
+    with open('model.pkl', 'rb') as f:
         return pickle.load(f)
 
 # Load the model
