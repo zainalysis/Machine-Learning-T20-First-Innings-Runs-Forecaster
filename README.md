@@ -4,6 +4,7 @@
 
 ## Overview
 
+**Link to Application: ** https://t20-first-innings-runs-forecaster-byzainalysis.streamlit.app/
 This project is a Streamlit application designed to predict the total runs scored in the first innings of T20 cricket matches. Utilizing a trained machine learning model, this app provides users with an interactive interface to input key parameters and receive predicted run totals.
 
 ## Features
